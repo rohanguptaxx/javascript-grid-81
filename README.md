@@ -1,2 +1,4 @@
-# javascript-grid-81
+# Javascript Grid 81
+
 Helper tool generating matrix coordinates in JavaScript.
+
